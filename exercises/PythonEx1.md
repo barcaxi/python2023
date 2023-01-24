@@ -15,5 +15,5 @@ On your external hard drive create a new folder called `python` in the root leve
    ```python
    print("hello, world!")
    ```
-4. Execute the code by pressing <button>`Shift+F10`</button> or press `Run 'main'` button
+4. Execute the code by pressing <kbd>Shift</kbd> + <kbd>F10</kbd> ` or press `Run 'main'` button
 
