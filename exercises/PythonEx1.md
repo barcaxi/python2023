@@ -82,27 +82,25 @@ print(sentence)
 
 
 # change and print the sentence so "cat" permanently replaces "dog"  - the quick brown fox jumps over the lazy cat
-
-
-
 ```
 
-1. Provide the missing code in each section.  When completed the program should print this:
-   ```
-   The quick brown fox jumps over the lazy dog
-   43
-   T
-   g
-   fox
-   Mary Anning
-   Mary Anning
-   2 * 10 = 20
-   the quick brown fox jumps over the lazy dog
-   THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
-   40
-   The quick brown fox jumps over the lazy cat
-   The quick brown fox jumps over the lazy cat
-   ```
+Provide the missing code in each section.  When completed the program should print this:
+
+```
+The quick brown fox jumps over the lazy dog
+43
+T
+g
+fox
+Mary Anning
+Mary Anning
+2 * 10 = 20
+the quick brown fox jumps over the lazy dog
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+40
+The quick brown fox jumps over the lazy cat
+The quick brown fox jumps over the lazy cat
+```
 
 
 ## Part 5 - Numbers
