@@ -13,8 +13,6 @@
    ```
    input name 1:Mary
    input name 2:Bob
-
-
    ```
    Expected Output:
    ```
