@@ -12,7 +12,16 @@
    
    Expected Output:
    ```
-   0 1 2 3 4 5 6 7 8 9 
+   0 
+   1 
+   2 
+   3 
+   4 
+   5 
+   6 
+   7 
+   8 
+   9 
    ```
 2. Write a Python program called `for2.py` to sum the first 10 integer numbers
    
